@@ -352,6 +352,7 @@ slider revolution
     background: url("../images/Denver_skyline.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
     height: 700px;
 }
 caption.slider-title, .slider-title {
