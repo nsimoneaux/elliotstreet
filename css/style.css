@@ -350,6 +350,7 @@ slider revolution
     padding: 0px 15px;
     overflow: hidden;
     background: url("../images/Denver_skyline.jpg");
+    background-size: cover;
 }
 caption.slider-title, .slider-title {
     font-size: 50px;
